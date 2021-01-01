@@ -1,2 +1,2 @@
-# collateral-commons
-School of disobedience project
+# einsteigen Bitte
+per.sonal website
